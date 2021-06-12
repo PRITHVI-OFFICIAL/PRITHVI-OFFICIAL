@@ -1,7 +1,8 @@
 [![IMAGE](	https://i.ibb.co/Kxd7gL7/cover-3.png)](https://prithvi-official.github.io/PRITHVI-OFFICIAL/)
 <h1 align="center">Hi 👋, I'm PRITHVI PK</h1>
 <h1 align="center">A boy who going to create Revolution in Tech</h1>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prithvi-official" alt="prithvi-official" /></a> </p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=PRITHVI-OFFICIAL&show_icons=true&locale=en" alt="PRITHVI PK" /></p>
+![](https://komarev.com/ghpvc/?PRITHVI-OFFICIAL&label=PROFILE+VIEWS)
 <img align="right" alt="avento" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
 
  **BIO DATA**
@@ -23,7 +24,6 @@
 
 - ⚡ Fun fact **I think I am soo Funny XD**
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=PRITHVI-OFFICIAL&show_icons=true&locale=en" alt="PRITHVI PK" /></p>
 
 
 
