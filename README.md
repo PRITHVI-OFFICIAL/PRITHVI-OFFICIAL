@@ -1,4 +1,4 @@
-[![IMAGE](https://i.ibb.co/syqJJcY/COVER-PAGE.png)](https://prithvi-official.github.io/PRITHVI-OFFICIAL/)
+[![IMAGE](https://i.ibb.co/pQ9FfPF/cover-page-2.png)](https://prithvi-official.github.io/PRITHVI-OFFICIAL/)
 <h1 align="center">Hi 👋, I'm PRITHVI PK</h1>
 <h1 align="center">A boy who going to create Revolution in Tech</h1>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prithvi-official" alt="prithvi-official" /></a> </p>
