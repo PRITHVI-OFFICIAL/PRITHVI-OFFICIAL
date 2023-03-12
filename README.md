@@ -1,6 +1,6 @@
 [![IMAGE](	https://i.ibb.co/Kxd7gL7/cover-3.png)](https://prithvi-official.github.io/PRITHVI-OFFICIAL/)
 <h1 align="center">Hi 👋, I'm PRITHVI PK</h1>
-<h1 align="center">A boy who going to create Revolution in Tech</h1>
+<h1 align="center">Student</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=PRITHVI-OFFICIAL&label=Profile%20views&color=129e00&style=plastic" alt="prithvipk" /> </p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=PRITHVI-OFFICIAL&show_icons=true&locale=en" alt="PRITHVI PK" /></p>
 <img align="right" alt="avento" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
