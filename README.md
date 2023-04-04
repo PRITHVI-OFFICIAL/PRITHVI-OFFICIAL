@@ -7,7 +7,7 @@
 
  **BIO DATA**
 
-- 🌱 I’m currently learning **JS**
+- 🌱 I’m currently learningg **JS**
 
 
 - 👨‍💻 All of my projects are available at [https://tinyurl.com/PRITHVI-OFFICIAL](https://tinyurl.com/PRITHVI-OFFICIAL)
