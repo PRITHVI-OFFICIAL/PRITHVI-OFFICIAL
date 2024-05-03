@@ -23,6 +23,8 @@ const prithvi = {
                   Buyzo - "E commerce Mobile Application using React Native, Node, Mongo, Redux",
                   
                   Dentisto - "A Mobile Application for Dental Scanning  using React Native, Firebase, Pytorch, YOLOV5, FastAPI",
+
+                  Sentix       - "A Mobile Application for Sentiment Analysis of Social media tweets to Find the Online Reputation,
                   
                   Navigo       - "A Mobile Application for College Bus Tracking using React Native, Firebase, Google Maps",
                   
