@@ -34,7 +34,8 @@ const prithvi = {
                   
       
                  },
-    contact:       {
+                 
+    contact:     {
                   mail: "prithviofficial02@gmail.com",
                   linkedIn:   "https://www.linkedin.com/in/PRITHVI-PK/",
                  },
